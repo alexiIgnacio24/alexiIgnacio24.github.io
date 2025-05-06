@@ -1,10 +1,10 @@
 :root {
-    --primaryText: #ffffff;
+    --primaryText: #ffecca;
     --secondaryText: #ff015e;
     --primary: rgba(200,16,46);
-    --secondary: rgb(6, 46, 102); 
+    --secondary: rgba(255, 0, 55, 0.63); 
     --buttonHover: rgb(206, 134, 134);
-    --smallButtonHover: rgba(6, 46, 102);
+    --smallButtonHover: rgb(175, 99, 0);
 }
 
 html {
@@ -48,6 +48,7 @@ h1 {
 }
 
 h2 {
+    color: #ff782a;
     font-size: 1em;
     margin-bottom: 0;
 }
